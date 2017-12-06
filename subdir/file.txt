@@ -1,0 +1,1 @@
+﻿FastUpToDateCheck incorrectly looks for this file at the project root
